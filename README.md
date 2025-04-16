@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sql/sql-icon.svg" alt="SQL" width="40" height="40"/>
+    <img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" alt="SQL" width="40" height="40"/>
   </a>
 </p>
 
@@ -71,10 +71,10 @@
 <h4 align="left">Geospatial & Remote Sensing:</h4>
 <p align="left">
   <a href="https://qgis.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
+    <img src="https://qgis.org/styleguide/visual/qgis-logo.svg" alt="QGIS" width="40" height="40"/>
   </a>
   <a href="https://www.esri.com/en-us/arcgis/products/index" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Esri_logo.svg" alt="ArcGIS" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIS" width="40" height="40"/>
   </a>
 </p>
 
@@ -96,7 +96,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://airflow.apache.org/images/airflow_logo.png" alt="Apache Airflow" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
