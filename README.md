@@ -85,7 +85,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/45/1/streamlit-logo-png_seeklogo-458260.png" alt="Streamlit" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" alt="Streamlit" width="40" height="40"/>
   </a>
 </p>
 
