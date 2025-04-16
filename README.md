@@ -27,16 +27,21 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+
+<!-- Programming & Scripting -->
+<h4 align="left">Programming & Scripting:</h4>
 <p align="left">
-  <!-- Programming & Scripting -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sql/sql-icon.svg" alt="SQL" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Database -->
+<!-- Database -->
+<h4 align="left">Database:</h4>
+<p align="left">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
@@ -46,8 +51,11 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Data Tools -->
+<!-- Data Tools -->
+<h4 align="left">Data Tools:</h4>
+<p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
@@ -57,27 +65,33 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Geospatial & Remote Sensing -->
+<!-- Geospatial & Remote Sensing -->
+<h4 align="left">Geospatial & Remote Sensing:</h4>
+<p align="left">
   <a href="https://qgis.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
   </a>
   <a href="https://www.esri.com/en-us/arcgis/products/index" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Esri_logo.svg" alt="ArcGIS" width="40" height="40"/>
   </a>
-  <a href="https://sentinel.esa.int/web/sentinel/home" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Copernicus_Sentinel_logo.svg/2560px-Copernicus_Sentinel_logo.svg.png" alt="Sentinel" width="40" height="40"/>
-  </a>
+</p>
 
-  <!-- Web & App Dev -->
+<!-- Web & App Development -->
+<h4 align="left">Web & App Development:</h4>
+<p align="left">
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- DevOps & Orchestration -->
+<!-- DevOps & Orchestration -->
+<h4 align="left">DevOps & Orchestration:</h4>
+<p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -87,8 +101,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Cloud -->
+<!-- Cloud -->
+<h4 align="left">Cloud:</h4>
+<p align="left">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="40" height="40"/>
   </a>
